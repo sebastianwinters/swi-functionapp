@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "swi_functionapp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7073",
+      "launchBrowser": false
+    }
+  }
+}
